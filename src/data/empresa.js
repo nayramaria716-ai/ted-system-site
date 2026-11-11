@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Segurança e Resiliência",
+      descricao: "Compromisso inegociável com a proteção de dados, privacidade dos usuários e robustez de sistemas frente a cenários adversos."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+     {
+      nome: "Nayra Sousa",
+      cargo: "Co-fundadora, Arquiteta de Software e Especialista em Segurança da Informação",
+      foto: "/images/nayra.jpg",
+      alt: "Foto de Nayra Sousa",
+      descricao: "CEO e co-fundadora da SS OPALA, responsável pela arquitetura de software e segurança da informação."
     }
   ]
 };
